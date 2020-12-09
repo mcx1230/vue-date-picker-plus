@@ -1,0 +1,51 @@
+{
+  "_from": "iview-date-picker-week",
+  "_id": "iview-date-picker-week@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha1-WrPla+mK4aHYHmysoinjAAUifJY=",
+  "_location": "/iview-date-picker-week",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "iview-date-picker-week",
+    "name": "iview-date-picker-week",
+    "escapedName": "iview-date-picker-week",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npm.taobao.org/iview-date-picker-week/download/iview-date-picker-week-1.0.0.tgz",
+  "_shasum": "5ab3e56be98ae1a1d81e6caca229e30005227c96",
+  "_spec": "iview-date-picker-week",
+  "_where": "F:\\CloudPlatform\\CloudFront",
+  "author": {
+    "name": "zhangrongliang@aliyun.com"
+  },
+  "bugs": {
+    "url": "https://github.com/zhangrongliang/iview-date-picker-week/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "基于iview,拓展日期控件选择第几周，返回选中周的7天日期数据，array。",
+  "homepage": "https://github.com/zhangrongliang/iview-date-picker-week#readme",
+  "keywords": [
+    "iview",
+    "日期控件拓展，选择周，返回周7天数据。"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "iview-date-picker-week",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/zhangrongliang/iview-date-picker-week.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
